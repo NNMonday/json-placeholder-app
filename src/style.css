@@ -1,0 +1,15 @@
+.active {
+    font-weight: bold;
+}
+
+thead {
+    border-bottom: 1px solid black;
+}
+
+tr {
+    cursor: pointer;
+}
+
+p {
+    margin-bottom: 0;
+}
